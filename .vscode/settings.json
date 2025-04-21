@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "pcmatrix.h": "c",
+        "prodcons.h": "c",
+        "cmath": "c",
+        "counter.h": "c",
+        "type_traits": "c"
+    }
+}
